@@ -423,9 +423,13 @@ sonar-01                   : ok=33   changed=14   unreachable=0    failed=0    s
 ![изображение](https://github.com/stepynin-georgy/hw_ci_2/blob/main/img/Screenshot_32.png)
 
 3. Проверьте директорию `~/.m2/repository/`, найдите ваш артефакт.
+
+![изображение](https://github.com/stepynin-georgy/hw_ci_2/blob/main/img/Screenshot_33.png)
+
 4. В ответе пришлите исправленный файл `pom.xml`.
 
-[maven-metadata.xml](https://github.com/stepynin-georgy/hw_ci_2/blob/main/maven-metadata.xml)
+[pom.xml](https://github.com/stepynin-georgy/hw_ci_2/blob/main/pom.xml)
+
 ---
 
 ### Как оформить решение задания
